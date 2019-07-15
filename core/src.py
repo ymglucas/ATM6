@@ -106,3 +106,7 @@ def run():
             func_dic[choice]()
         else:
             print('输入有误，请重新输入')
+
+
+if __name__ == '__main__':
+    print(123)
